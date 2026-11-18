@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: f2ab0021ff3744f4cb3e43f985b391b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3240378454122187200
+    second: Book_Small_LightGreen_0
+  - first:
+      213: -5257412188495876178
+    second: Book_Small_LightGreen_1
+  - first:
+      213: -5019105598413511929
+    second: Book_Small_LightGreen_2
+  - first:
+      213: 8638134942885857736
+    second: Book_Small_LightGreen_3
+  - first:
+      213: -4581646422933842070
+    second: Book_Small_LightGreen_4
+  - first:
+      213: 4593528141662046442
+    second: Book_Small_LightGreen_5
+  - first:
+      213: 3292001318443385907
+    second: Book_Small_LightGreen_6
+  - first:
+      213: -433720180671673783
+    second: Book_Small_LightGreen_7
+  - first:
+      213: 8509412800965924505
+    second: Book_Small_LightGreen_8
+  - first:
+      213: 8683880037730496202
+    second: Book_Small_LightGreen_9
+  - first:
+      213: 1314932303826311839
+    second: Book_Small_LightGreen_10
+  - first:
+      213: -7777490054323431631
+    second: Book_Small_LightGreen_11
+  - first:
+      213: 8049855742559854133
+    second: Book_Small_LightGreen_12
+  - first:
+      213: -5991828620554990295
+    second: Book_Small_LightGreen_13
+  - first:
+      213: -3910440926136479469
+    second: Book_Small_LightGreen_14
+  - first:
+      213: -6549942585541193424
+    second: Book_Small_LightGreen_15
+  - first:
+      213: -1589912192083014345
+    second: Book_Small_LightGreen_00
+  - first:
+      213: 3879980495795960480
+    second: Book_Small_LightGreen_01
+  - first:
+      213: -7446839293087475201
+    second: Book_Small_LightGreen_02
+  - first:
+      213: 4325888669948932964
+    second: Book_Small_LightGreen_03
+  - first:
+      213: -3255276223372830299
+    second: Book_Small_LightGreen_04
+  - first:
+      213: 6433755149830290297
+    second: Book_Small_LightGreen_05
+  - first:
+      213: -4466471677133928716
+    second: Book_Small_LightGreen_06
+  - first:
+      213: 2321913304631734266
+    second: Book_Small_LightGreen_07
+  - first:
+      213: 7041417946180039225
+    second: Book_Small_LightGreen_08
+  - first:
+      213: 4150596589480559128
+    second: Book_Small_LightGreen_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d44d6f84f7fe9e0800000000000000
+      internalID: -1589912192083014345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aabc5334b578d530800000000000000
+      internalID: 3879980495795960480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff999143e1387a890800000000000000
+      internalID: -7446839293087475201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463713663d4a80c30800000000000000
+      internalID: 4325888669948932964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a95614a58fe2d2d0800000000000000
+      internalID: -3255276223372830299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_05
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b7975a83a494950800000000000000
+      internalID: 6433755149830290297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_06
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6c61d8ca7e302c0800000000000000
+      internalID: -4466471677133928716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_07
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affe3d939d7193020800000000000000
+      internalID: 2321913304631734266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9323f15a05428b160800000000000000
+      internalID: 7041417946180039225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_09
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812cfe97b91e99930800000000000000
+      internalID: 4150596589480559128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ad049a6f39f3210800000000000000
+      internalID: 1314932303826311839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1371be3a00ec01490800000000000000
+      internalID: -7777490054323431631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e1b6cd525d6bf60800000000000000
+      internalID: 8049855742559854133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d0dcc9d9fb8dca0800000000000000
+      internalID: -5991828620554990295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3115c7232b25bb9c0800000000000000
+      internalID: -3910440926136479469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_LightGreen_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0311d99ebede915a0800000000000000
+      internalID: -6549942585541193424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Book_Small_LightGreen_0: -3240378454122187200
+      Book_Small_LightGreen_00: -1589912192083014345
+      Book_Small_LightGreen_01: 3879980495795960480
+      Book_Small_LightGreen_02: -7446839293087475201
+      Book_Small_LightGreen_03: 4325888669948932964
+      Book_Small_LightGreen_04: -3255276223372830299
+      Book_Small_LightGreen_05: 6433755149830290297
+      Book_Small_LightGreen_06: -4466471677133928716
+      Book_Small_LightGreen_07: 2321913304631734266
+      Book_Small_LightGreen_08: 7041417946180039225
+      Book_Small_LightGreen_09: 4150596589480559128
+      Book_Small_LightGreen_1: -5257412188495876178
+      Book_Small_LightGreen_10: 1314932303826311839
+      Book_Small_LightGreen_11: -7777490054323431631
+      Book_Small_LightGreen_12: 8049855742559854133
+      Book_Small_LightGreen_13: -5991828620554990295
+      Book_Small_LightGreen_14: -3910440926136479469
+      Book_Small_LightGreen_15: -6549942585541193424
+      Book_Small_LightGreen_2: -5019105598413511929
+      Book_Small_LightGreen_3: 8638134942885857736
+      Book_Small_LightGreen_4: -4581646422933842070
+      Book_Small_LightGreen_5: 4593528141662046442
+      Book_Small_LightGreen_6: 3292001318443385907
+      Book_Small_LightGreen_7: -433720180671673783
+      Book_Small_LightGreen_8: 8509412800965924505
+      Book_Small_LightGreen_9: 8683880037730496202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

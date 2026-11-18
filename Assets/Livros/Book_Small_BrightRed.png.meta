@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: eb11bb9e700af80498c5a87e3f473fcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2706589743940621739
+    second: Book_Small_BrightRed_0
+  - first:
+      213: -6673056369856579320
+    second: Book_Small_BrightRed_1
+  - first:
+      213: 1801611818683263568
+    second: Book_Small_BrightRed_2
+  - first:
+      213: -7223805721037101802
+    second: Book_Small_BrightRed_3
+  - first:
+      213: 3329124739051843627
+    second: Book_Small_BrightRed_4
+  - first:
+      213: 6173606977752679662
+    second: Book_Small_BrightRed_5
+  - first:
+      213: -4196317535899700585
+    second: Book_Small_BrightRed_6
+  - first:
+      213: -8630819734560854383
+    second: Book_Small_BrightRed_7
+  - first:
+      213: 7447425740684981127
+    second: Book_Small_BrightRed_8
+  - first:
+      213: -3984135726594648180
+    second: Book_Small_BrightRed_9
+  - first:
+      213: -367077193690871038
+    second: Book_Small_BrightRed_10
+  - first:
+      213: -7409367295708434795
+    second: Book_Small_BrightRed_11
+  - first:
+      213: 2226683417179792034
+    second: Book_Small_BrightRed_12
+  - first:
+      213: 7625515739415953085
+    second: Book_Small_BrightRed_13
+  - first:
+      213: -2334978752195304549
+    second: Book_Small_BrightRed_14
+  - first:
+      213: 2985112085763257434
+    second: Book_Small_BrightRed_15
+  - first:
+      213: -6927152346552215721
+    second: Book_Small_BrightRed_00
+  - first:
+      213: 3466271742902142388
+    second: Book_Small_BrightRed_01
+  - first:
+      213: -7258449757735101346
+    second: Book_Small_BrightRed_02
+  - first:
+      213: 1597712453493114313
+    second: Book_Small_BrightRed_03
+  - first:
+      213: -5875120168481517021
+    second: Book_Small_BrightRed_04
+  - first:
+      213: 3050571427671587123
+    second: Book_Small_BrightRed_05
+  - first:
+      213: -6193901740977079910
+    second: Book_Small_BrightRed_06
+  - first:
+      213: -3763761109909190288
+    second: Book_Small_BrightRed_07
+  - first:
+      213: -5690364174988835519
+    second: Book_Small_BrightRed_08
+  - first:
+      213: -8082759828582641092
+    second: Book_Small_BrightRed_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757ddb674afcddf90800000000000000
+      internalID: -6927152346552215721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b508aaf8cbaa1030800000000000000
+      internalID: 3466271742902142388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cdd2af66ec44b90800000000000000
+      internalID: -7258449757735101346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5ccabe2073c2610800000000000000
+      internalID: 1597712453493114313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3221de0a551677ea0800000000000000
+      internalID: -5875120168481517021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_05
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33932540d8ec55a20800000000000000
+      internalID: 3050571427671587123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_06
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99336bee27da0aa0800000000000000
+      internalID: -6193901740977079910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_07
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079ce68363f64cbc0800000000000000
+      internalID: -3763761109909190288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1458e238ee3c701b0800000000000000
+      internalID: -5690364174988835519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_09
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32d88c92c444df80800000000000000
+      internalID: -8082759828582641092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b88e8bc31e7eaf0800000000000000
+      internalID: -367077193690871038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ee6e873b3ac2990800000000000000
+      internalID: -7409367295708434795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2214c35c4c6ee10800000000000000
+      internalID: 2226683417179792034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeb90dc92643d960800000000000000
+      internalID: 7625515739415953085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b936055323d789fd0800000000000000
+      internalID: -2334978752195304549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Small_BrightRed_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54f4ae40af3d6920800000000000000
+      internalID: 2985112085763257434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Book_Small_BrightRed_0: -2706589743940621739
+      Book_Small_BrightRed_00: -6927152346552215721
+      Book_Small_BrightRed_01: 3466271742902142388
+      Book_Small_BrightRed_02: -7258449757735101346
+      Book_Small_BrightRed_03: 1597712453493114313
+      Book_Small_BrightRed_04: -5875120168481517021
+      Book_Small_BrightRed_05: 3050571427671587123
+      Book_Small_BrightRed_06: -6193901740977079910
+      Book_Small_BrightRed_07: -3763761109909190288
+      Book_Small_BrightRed_08: -5690364174988835519
+      Book_Small_BrightRed_09: -8082759828582641092
+      Book_Small_BrightRed_1: -6673056369856579320
+      Book_Small_BrightRed_10: -367077193690871038
+      Book_Small_BrightRed_11: -7409367295708434795
+      Book_Small_BrightRed_12: 2226683417179792034
+      Book_Small_BrightRed_13: 7625515739415953085
+      Book_Small_BrightRed_14: -2334978752195304549
+      Book_Small_BrightRed_15: 2985112085763257434
+      Book_Small_BrightRed_2: 1801611818683263568
+      Book_Small_BrightRed_3: -7223805721037101802
+      Book_Small_BrightRed_4: 3329124739051843627
+      Book_Small_BrightRed_5: 6173606977752679662
+      Book_Small_BrightRed_6: -4196317535899700585
+      Book_Small_BrightRed_7: -8630819734560854383
+      Book_Small_BrightRed_8: 7447425740684981127
+      Book_Small_BrightRed_9: -3984135726594648180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

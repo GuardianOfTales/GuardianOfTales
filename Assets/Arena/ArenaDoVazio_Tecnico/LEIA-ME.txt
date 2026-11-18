@@ -1,0 +1,17 @@
+ARENA DO VAZIO — PACOTE TÉCNICO (BASE 32×32)
+
+Conteúdo
+- Atlas/ArenaDoVazio_Atlas_Original.png: prancha gerada original, com fundo.
+- Atlas/ArenaDoVazio_Atlas_Transparente.png: tentativa de remoção do fundo, PNG RGBA.
+- Sprites_Individuais/: recortes automáticos por componentes conectados, nomeados sprite_###.png.
+- Unity/: recomendações de importação.
+
+IMPORTANTE — LIMITAÇÕES TÉCNICAS
+Este pacote é uma preparação inicial, não um tileset artesanal validado. A prancha gerada não foi desenhada em uma grade rígida de 32×32: 32 px é a unidade-base pretendida, mas muitos elementos têm dimensões maiores e irregulares. Os recortes automáticos podem agrupar peças encostadas ou separar detalhes conectados. A transparência foi estimada por remoção de fundo por cor/conectividade e pode deixar halos ou remover pixels semelhantes ao fundo. Revise os PNGs antes de publicar o jogo.
+
+Fluxo recomendado
+1. Abra ArenaDoVazio_Atlas_Transparente.png em LibreSprite, Aseprite ou Krita.
+2. Confira transparência em fundo quadriculado e corrija halos/áreas roxas residuais.
+3. Revise Sprites_Individuais; renomeie os arquivos com nomes semânticos (wall_straight, column, gravestone etc.).
+4. Para peças modulares de parede/piso, redesenhe ou ajuste cada tile para encaixar exatamente na grade de 32 px. Não force estátuas, árvores, portais ou bandeiras a caberem em 32×32: use sprites maiores, alinhados à mesma unidade.
+5. Na Unity, importe os sprites e ajuste Pixels Per Unit para 32 se desejar que 32 pixels correspondam a 1 unidade.

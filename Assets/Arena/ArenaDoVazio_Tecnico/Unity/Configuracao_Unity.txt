@@ -1,0 +1,26 @@
+UNITY — CONFIGURAÇÃO SUGERIDA
+
+Para os PNGs individuais:
+- Texture Type: Sprite (2D and UI)
+- Sprite Mode: Single
+- Pixels Per Unit: 32 (se 32 px = 1 unidade no seu projeto)
+- Filter Mode: Point (no filter)
+- Compression: None
+- Generate Mip Maps: Off
+- Alpha Is Transparency: On
+
+Para o atlas transparente:
+- Texture Type: Sprite (2D and UI)
+- Sprite Mode: Multiple
+- Pixels Per Unit: 32
+- Filter Mode: Point (no filter)
+- Compression: None
+- Generate Mip Maps: Off
+- Abra Sprite Editor e faça recortes manuais/Automatic, conferindo cada retângulo.
+
+Tile Palette:
+- Crie uma Grid + Tile Palette.
+- Use apenas peças de piso/parede que tenham bordas compatíveis e dimensões múltiplas de 32 px.
+- Decorações grandes (árvores, estátuas, portal, bandeiras) devem ser sprites colocados na cena, não necessariamente tiles de Tilemap.
+- Configure Collider Type = None para decoração; para plataformas e paredes, use Physics Shape/Tilemap Collider conforme a geometria real.
+- Verifique PPU, escala da Grid e pixels por unidade para evitar desalinhamento.

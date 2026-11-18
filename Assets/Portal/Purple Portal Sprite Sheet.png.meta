@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 5db3fa42319527048a527f30976b1503
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7590852279806083750
+    second: Purple Portal Sprite Sheet_0
+  - first:
+      213: -1047030333955297497
+    second: Purple Portal Sprite Sheet_1
+  - first:
+      213: 7701685673204356691
+    second: Purple Portal Sprite Sheet_2
+  - first:
+      213: 7816005057387510459
+    second: Purple Portal Sprite Sheet_3
+  - first:
+      213: 1583939405589128480
+    second: Purple Portal Sprite Sheet_4
+  - first:
+      213: -1821823870314367245
+    second: Purple Portal Sprite Sheet_5
+  - first:
+      213: 3173601273203674603
+    second: Purple Portal Sprite Sheet_6
+  - first:
+      213: -4160613844151899202
+    second: Purple Portal Sprite Sheet_7
+  - first:
+      213: 4061720752601944399
+    second: Purple Portal Sprite Sheet_8
+  - first:
+      213: -5359844677740714686
+    second: Purple Portal Sprite Sheet_9
+  - first:
+      213: 6337546947990812001
+    second: Purple Portal Sprite Sheet_10
+  - first:
+      213: -7947525485063442325
+    second: Purple Portal Sprite Sheet_11
+  - first:
+      213: -7384564523777974397
+    second: Purple Portal Sprite Sheet_12
+  - first:
+      213: -1531221548115639420
+    second: Purple Portal Sprite Sheet_13
+  - first:
+      213: 5606354496016024334
+    second: Purple Portal Sprite Sheet_14
+  - first:
+      213: 3940960551971708277
+    second: Purple Portal Sprite Sheet_15
+  - first:
+      213: -573200737274364046
+    second: Purple Portal Sprite Sheet_16
+  - first:
+      213: -3368565165998150311
+    second: Portal_00
+  - first:
+      213: 385261523219262758
+    second: Portal_01
+  - first:
+      213: -8709888544723836058
+    second: Portal_02
+  - first:
+      213: 7162964207040511285
+    second: Portal_03
+  - first:
+      213: 4423170124433308434
+    second: Portal_04
+  - first:
+      213: 6200043503560465524
+    second: Portal_05
+  - first:
+      213: -3493167397084308759
+    second: Portal_06
+  - first:
+      213: -2909843350274520247
+    second: Portal_07
+  - first:
+      213: -2984625117691515122
+    second: Portal_08
+  - first:
+      213: -8433785426628979675
+    second: Portal_09
+  - first:
+      213: -6243829485269475877
+    second: Portal_10
+  - first:
+      213: -4040977761308534313
+    second: Portal_11
+  - first:
+      213: 9187669588170011834
+    second: Portal_12
+  - first:
+      213: -5770780211250784973
+    second: Portal_13
+  - first:
+      213: 6929692584990154426
+    second: Portal_14
+  - first:
+      213: -7193387756126948556
+    second: Portal_15
+  - first:
+      213: 8532301567556799393
+    second: Portal_16
+  - first:
+      213: -7057878137808709057
+    second: Portal_17
+  - first:
+      213: -4947229090106881374
+    second: Portal_18
+  - first:
+      213: 2053025966658111632
+    second: Portal_19
+  - first:
+      213: 2816034117096381973
+    second: Portal_20
+  - first:
+      213: 2189769627333426262
+    second: Portal_21
+  - first:
+      213: 2663875443410626922
+    second: Portal_22
+  - first:
+      213: 2625762517618189750
+    second: Portal_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 7
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Portal_00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 135
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dece534d37041d0800000000000000
+      internalID: -3368565165998150311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_01
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 135
+        width: 19
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d2c1d6059b85500800000000000000
+      internalID: 385261523219262758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_02
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 135
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663ed7af382402780800000000000000
+      internalID: -8709888544723836058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_03
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 135
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dbc7bcef5f76360800000000000000
+      internalID: 7162964207040511285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_04
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 135
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bb7ff0bc1426d30800000000000000
+      internalID: 4423170124433308434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_05
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 132
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c90bd97bafa0650800000000000000
+      internalID: 6200043503560465524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_06
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 135
+        width: 17
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea50db82c6c58fc0800000000000000
+      internalID: -3493167397084308759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_07
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 135
+        width: 19
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bcad2d3e82e97d0800000000000000
+      internalID: -2909843350274520247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Portal_00: -3368565165998150311
+      Portal_01: 385261523219262758
+      Portal_02: -8709888544723836058
+      Portal_03: 7162964207040511285
+      Portal_04: 4423170124433308434
+      Portal_05: 6200043503560465524
+      Portal_06: -3493167397084308759
+      Portal_07: -2909843350274520247
+      Portal_08: -2984625117691515122
+      Portal_09: -8433785426628979675
+      Portal_10: -6243829485269475877
+      Portal_11: -4040977761308534313
+      Portal_12: 9187669588170011834
+      Portal_13: -5770780211250784973
+      Portal_14: 6929692584990154426
+      Portal_15: -7193387756126948556
+      Portal_16: 8532301567556799393
+      Portal_17: -7057878137808709057
+      Portal_18: -4947229090106881374
+      Portal_19: 2053025966658111632
+      Portal_20: 2816034117096381973
+      Portal_21: 2189769627333426262
+      Portal_22: 2663875443410626922
+      Portal_23: 2625762517618189750
+      Purple Portal Sprite Sheet_0: -7590852279806083750
+      Purple Portal Sprite Sheet_1: -1047030333955297497
+      Purple Portal Sprite Sheet_10: 6337546947990812001
+      Purple Portal Sprite Sheet_11: -7947525485063442325
+      Purple Portal Sprite Sheet_12: -7384564523777974397
+      Purple Portal Sprite Sheet_13: -1531221548115639420
+      Purple Portal Sprite Sheet_14: 5606354496016024334
+      Purple Portal Sprite Sheet_15: 3940960551971708277
+      Purple Portal Sprite Sheet_16: -573200737274364046
+      Purple Portal Sprite Sheet_2: 7701685673204356691
+      Purple Portal Sprite Sheet_3: 7816005057387510459
+      Purple Portal Sprite Sheet_4: 1583939405589128480
+      Purple Portal Sprite Sheet_5: -1821823870314367245
+      Purple Portal Sprite Sheet_6: 3173601273203674603
+      Purple Portal Sprite Sheet_7: -4160613844151899202
+      Purple Portal Sprite Sheet_8: 4061720752601944399
+      Purple Portal Sprite Sheet_9: -5359844677740714686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

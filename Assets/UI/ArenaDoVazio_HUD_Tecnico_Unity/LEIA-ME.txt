@@ -1,0 +1,38 @@
+ARENA DO VAZIO — HUD TÉCNICO PARA UNITY
+=========================================
+
+Conteúdo
+- Health/: vida do jogador (vermelho)
+- Mana/: mana do jogador (azul)
+- Archivist/: vida do Arquivista (roxo)
+Cada pasta contém:
+  *_Frame.png       moldura decorativa transparente
+  *_Background.png trilha escura vazia (416x40)
+  *_Fill.png        textura colorida (416x40), usada como Image Filled
+  *_Icon.png        ícone separado (80x80)
+
+IMPORTAÇÃO UNITY (uGUI)
+1. Copie as pastas Health, Mana e Archivist para Assets/Art/HUD/.
+2. Para todos os PNGs: Texture Type = Sprite (2D and UI).
+3. Filter Mode = Point (no filter); Compression = None; Generate Mip Maps = Off.
+4. Pixels Per Unit = 32. Clique Apply.
+5. Crie um Canvas e, para cada barra, crie um objeto UI > Image chamado Background.
+6. Dentro do mesmo grupo, crie um Image chamado Fill e atribua *_Fill.png.
+   - Image Type = Filled
+   - Fill Method = Horizontal
+   - Fill Origin = Left
+   - Fill Amount = 1
+7. Crie outro Image chamado Frame por cima do Fill e atribua *_Frame.png.
+8. Coloque o ícone separado à esquerda. O frame tem 512x96; Background/Fill têm 416x40.
+   Posicione Background e Fill aproximadamente em X=82, Y=28 dentro do retângulo do frame.
+   Ajuste anchors/RectTransform conforme a escala do Canvas.
+9. Para o Arquivista, use a mesma estrutura com os PNGs da pasta Archivist.
+
+LÓGICA
+- Atualize fillAmount com vidaAtual / vidaMaxima (valor entre 0 e 1).
+- Não altere a largura do Frame ou Background; somente o Fill deve diminuir.
+- Use o script HealthBarUI.cs como exemplo.
+
+OBSERVAÇÃO
+Os arquivos são componentes modulares criados para uma barra horizontal estática e dinâmica.
+A arte é pixel-art estilizada, com moldura fixa e preenchimento separado. Os PNGs têm transparência.

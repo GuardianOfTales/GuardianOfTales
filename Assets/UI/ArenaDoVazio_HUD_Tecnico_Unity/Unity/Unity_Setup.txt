@@ -1,0 +1,8 @@
+CONFIGURAÇÃO DO COMPONENTE IMAGE
+- Image Type: Filled
+- Fill Method: Horizontal
+- Fill Origin: Left
+- Fill Amount: 1
+- Preserve Aspect: desativado para Fill (ajuste o RectTransform ao tamanho 416x40)
+- Frame: Image Type Simple, Preserve Aspect conforme necessário
+- Background: Image Type Simple

@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &406536707126407953
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1525834529823353533}
+  - component: {fileID: 1716216519165044100}
+  - component: {fileID: 4463350501636498467}
+  m_Layer: 0
+  m_Name: AcidProjectile
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1525834529823353533
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 406536707126407953}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.2, y: 1.2, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1716216519165044100
+SpriteRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 406536707126407953}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 207c045c5189d96498c8bf5b7c155c83, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -20
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 3687869245014719826, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
+  m_BlendShapeWeights: []
+--- !u!114 &4463350501636498467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 406536707126407953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cddb364e732601d429f1d3c882857c2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Vazio.AcidProjectile
+  flightFrames:
+  - {fileID: 3687869245014719826, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -801395948178523825, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -3062690379104552651, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: 6166084436209282730, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -2138053218779370037, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: 6060399648508990214, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -3030229374568839513, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -5834142995610525035, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -1598249913487542530, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: 7972153844181078106, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -3169972542348747098, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -3534592198314489557, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -8406980633045407054, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -7746697634899868976, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -7793906717859932916, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  - {fileID: -5508327819385615665, guid: 39ae61b3d1deca642998c179f003a2af, type: 3}
+  fps: 14
+  gravity: 26
+  spinSpeed: 200
+  maxLife: 3
+  groundY: 0
+  puddlePrefab: {fileID: 266976823944595151, guid: d07c8d65d1de8c94d95ee7b422d50870, type: 3}

@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: b53b93a3944a17a4b8fbf67801d9cebf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1381397242302438746
+    second: Acid VFX 02Repeatable_0
+  - first:
+      213: -7314431038255050661
+    second: Acid VFX 02Repeatable_1
+  - first:
+      213: 7582269903404874185
+    second: Acid VFX 02Repeatable_2
+  - first:
+      213: -6418873239251538312
+    second: Acid VFX 02Repeatable_3
+  - first:
+      213: 7195018325036658250
+    second: Acid VFX 02Repeatable_4
+  - first:
+      213: 4808585913319506918
+    second: Acid VFX 02Repeatable_5
+  - first:
+      213: 6926708811567437341
+    second: Acid VFX 02Repeatable_6
+  - first:
+      213: -8140660490490264779
+    second: Acid VFX 02Repeatable_7
+  - first:
+      213: 1494794477069749717
+    second: Acid VFX 02Repeatable_8
+  - first:
+      213: -4699582864206730087
+    second: Acid VFX 02Repeatable_9
+  - first:
+      213: 2080504935821724323
+    second: Acid VFX 02Repeatable_10
+  - first:
+      213: -4192719530506340063
+    second: Acid VFX 02Repeatable_11
+  - first:
+      213: -6395939162587746920
+    second: Acid VFX 02Repeatable_12
+  - first:
+      213: 7386057043480787849
+    second: Acid VFX 02Repeatable_13
+  - first:
+      213: 418334332427910631
+    second: Acid VFX 02Repeatable_14
+  - first:
+      213: 9035189948020287574
+    second: Acid VFX 02Repeatable_15
+  - first:
+      213: 1449370283021328692
+    second: Acid VFX 02Repeatable_16
+  - first:
+      213: 7772860938881083621
+    second: Acid VFX 02Repeatable_17
+  - first:
+      213: 1244420233050550268
+    second: Acid VFX 02Repeatable_18
+  - first:
+      213: 7111118237908548630
+    second: Acid VFX 02Repeatable_19
+  - first:
+      213: 1220183340847252439
+    second: PuddleRepeat_00
+  - first:
+      213: -3345181069918097349
+    second: PuddleRepeat_01
+  - first:
+      213: 1812640080324091414
+    second: PuddleRepeat_02
+  - first:
+      213: 5093292838135795721
+    second: PuddleRepeat_03
+  - first:
+      213: 1798689456179606439
+    second: PuddleRepeat_04
+  - first:
+      213: 2314007956997849548
+    second: PuddleRepeat_05
+  - first:
+      213: 5160145618590897910
+    second: PuddleRepeat_06
+  - first:
+      213: -814914660745920754
+    second: PuddleRepeat_07
+  - first:
+      213: -6316148374781764243
+    second: PuddleRepeat_08
+  - first:
+      213: 6437307980852112035
+    second: PuddleRepeat_09
+  - first:
+      213: 6590457100194550130
+    second: PuddleRepeat_10
+  - first:
+      213: -2441169468255506044
+    second: PuddleRepeat_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PuddleRepeat_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3cc00a846fee010800000000000000
+      internalID: 1220183340847252439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30bb2a5a878391d0800000000000000
+      internalID: -3345181069918097349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e5a5d9c8ac72910800000000000000
+      internalID: 1812640080324091414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9001022d9d20fa640800000000000000
+      internalID: 5093292838135795721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a373d0d78a36f810800000000000000
+      internalID: 1798689456179606439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1c84c0af10d1020800000000000000
+      internalID: 2314007956997849548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f61669b9158c9740800000000000000
+      internalID: 5160145618590897910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_07
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f3bf30f67d0b4f0800000000000000
+      internalID: -814914660745920754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dd87c74888858a0800000000000000
+      internalID: -6316148374781764243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_09
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa2a749089e55950800000000000000
+      internalID: 6437307980852112035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2711c8c90d1067b50800000000000000
+      internalID: 6590457100194550130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleRepeat_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f9107d493f1ed0800000000000000
+      internalID: -2441169468255506044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Acid VFX 02Repeatable_0: -1381397242302438746
+      Acid VFX 02Repeatable_1: -7314431038255050661
+      Acid VFX 02Repeatable_10: 2080504935821724323
+      Acid VFX 02Repeatable_11: -4192719530506340063
+      Acid VFX 02Repeatable_12: -6395939162587746920
+      Acid VFX 02Repeatable_13: 7386057043480787849
+      Acid VFX 02Repeatable_14: 418334332427910631
+      Acid VFX 02Repeatable_15: 9035189948020287574
+      Acid VFX 02Repeatable_16: 1449370283021328692
+      Acid VFX 02Repeatable_17: 7772860938881083621
+      Acid VFX 02Repeatable_18: 1244420233050550268
+      Acid VFX 02Repeatable_19: 7111118237908548630
+      Acid VFX 02Repeatable_2: 7582269903404874185
+      Acid VFX 02Repeatable_3: -6418873239251538312
+      Acid VFX 02Repeatable_4: 7195018325036658250
+      Acid VFX 02Repeatable_5: 4808585913319506918
+      Acid VFX 02Repeatable_6: 6926708811567437341
+      Acid VFX 02Repeatable_7: -8140660490490264779
+      Acid VFX 02Repeatable_8: 1494794477069749717
+      Acid VFX 02Repeatable_9: -4699582864206730087
+      PuddleRepeat_00: 1220183340847252439
+      PuddleRepeat_01: -3345181069918097349
+      PuddleRepeat_02: 1812640080324091414
+      PuddleRepeat_03: 5093292838135795721
+      PuddleRepeat_04: 1798689456179606439
+      PuddleRepeat_05: 2314007956997849548
+      PuddleRepeat_06: 5160145618590897910
+      PuddleRepeat_07: -814914660745920754
+      PuddleRepeat_08: -6316148374781764243
+      PuddleRepeat_09: 6437307980852112035
+      PuddleRepeat_10: 6590457100194550130
+      PuddleRepeat_11: -2441169468255506044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

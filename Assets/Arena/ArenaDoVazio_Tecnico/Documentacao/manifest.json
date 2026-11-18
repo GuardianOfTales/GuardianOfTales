@@ -1,0 +1,9 @@
+{
+  "base_grid_px": 32,
+  "source_atlas_px": [
+    1536,
+    1024
+  ],
+  "sprite_count": 132,
+  "note": "Automatic connected-component crops; inspect before production."
+}
