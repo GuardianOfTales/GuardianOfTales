@@ -173,6 +173,10 @@ namespace Vazio
                 Active.Add(this);
             }
 
+            // Musica do chefe: o Arquivista so e' ativado quando o jogador
+            // atravessa o portal.
+            GameAudio.Instance?.PlayBossMusic();
+
             AnyBossSpawned?.Invoke(this);
         }
 
@@ -431,6 +435,7 @@ namespace Vazio
         private void BeginMelee()
         {
             SetState(State.Melee);
+            GameAudio.Instance?.BossStaff();
             _meleePhaseStep = 0;
             _meleePhaseTimer = meleeWindup;
             StartCoroutine(MeleeTelegraphRoutine());
@@ -511,6 +516,7 @@ namespace Vazio
         private void BeginLaser()
         {
             SetState(State.Laser);
+            GameAudio.Instance?.BossStaff();
             _laserTimer = laserInterval;
             _laserPhaseStep = 0;
             _laserPhaseTimer = laserCharge;
@@ -588,6 +594,7 @@ namespace Vazio
         private void BeginBooks()
         {
             SetState(State.Books);
+            GameAudio.Instance?.BossBooks();
             _booksTimer = UnityEngine.Random.Range(booksMinInterval, booksMaxInterval);
 
             _booksPhase = BooksPhase.Jump;
@@ -608,6 +615,7 @@ namespace Vazio
                     if (_body.linearVelocity.y <= 0.5f)
                     {
                         // Pausa a fisica e flutua no ar.
+                        GameAudio.Instance?.BossFlight();
                         _booksPhase = BooksPhase.Float;
                         _body.gravityScale = 0f;
                         _body.linearVelocity = Vector2.zero;
@@ -793,6 +801,7 @@ namespace Vazio
 
             _health = Mathf.Max(0f, _health - amount);
             _hitUntil = Time.time + 0.18f;
+            GameAudio.Instance?.BossHurt();
             HealthChanged?.Invoke(_health, maxHealth);
 
             StartCoroutine(HitFlashRoutine());
@@ -820,6 +829,7 @@ namespace Vazio
         private void Die()
         {
             _dead = true;
+            GameAudio.Instance?.PlayMusic(null);
             SetState(State.Dead);
 
             if (_collider != null)

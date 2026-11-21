@@ -176,6 +176,7 @@ namespace Vazio
 
             _health = Mathf.Max(0f, _health - amount);
             _invulnerableUntil = Time.time + invulnerabilityAfterHit;
+            GameAudio.Instance?.PlayerHurt();
             RaiseHealth();
 
             if (visualAnimator != null)
@@ -222,6 +223,7 @@ namespace Vazio
         private void Die()
         {
             _dead = true;
+            GameAudio.Instance?.PlayerDeath();
             Died?.Invoke();
 
             if (visualAnimator != null)

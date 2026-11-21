@@ -26,6 +26,8 @@ namespace Vazio
 
         [Header("Pulo de altura fixa (Espaco)")]
         [SerializeField, Min(0.1f)] private float jumpHeight = 5.1f;
+        [SerializeField, Range(0, 3)] private int airJumps = 1;
+        [SerializeField, Min(0f)] private float airJumpManaCost = 20f;
         [SerializeField, Min(1f)] private float maxFallSpeed = 28f;
         [SerializeField, Range(0f, 0.3f)] private float coyoteTime = 0.1f;
         [SerializeField, Range(0f, 0.3f)] private float jumpBufferTime = 0.12f;
@@ -74,6 +76,7 @@ namespace Vazio
         private PlayerStats _stats;
         private readonly List<Collider2D> _dashIgnored = new List<Collider2D>();
 
+        private int _airJumpsLeft;
         private float _lastGroundedTime = -99f;
         private float _jumpRequestedTime = -99f;
         private bool _wasGrounded;
@@ -150,6 +153,8 @@ namespace Vazio
             }
 
             float speed = Mathf.Abs(_body.linearVelocity.x);
+            GameAudio.Instance?.SetWalking(speed > 0.2f);
+
             if (speed > 0.2f)
             {
                 visualAnimator.PlayLocomotion(_isCrouching
@@ -241,7 +246,11 @@ namespace Vazio
             }
 
             bool canUseCoyote = Time.time - _lastGroundedTime <= coyoteTime;
-            if (!IsGrounded && !canUseCoyote)
+            bool groundedJump = IsGrounded || canUseCoyote;
+
+            // Pulo no ar (double jump): limitado por airJumps e custa mana
+            // (mesmo valor do dash).
+            if (!groundedJump && _airJumpsLeft <= 0)
             {
                 return;
             }
@@ -254,6 +263,25 @@ namespace Vazio
             if (_isCrouching)
             {
                 SetCrouching(false);
+            }
+
+            if (!groundedJump)
+            {
+                if (_stats == null)
+                {
+                    _stats = GetComponent<PlayerStats>();
+                }
+
+                if (airJumpManaCost > 0f && _stats != null && !_stats.TrySpendMana(airJumpManaCost))
+                {
+                    return;
+                }
+
+                _airJumpsLeft--;
+            }
+            else
+            {
+                _airJumpsLeft = airJumps;
             }
 
             float gravity = Mathf.Abs(Physics2D.gravity.y * _body.gravityScale);
@@ -271,6 +299,7 @@ namespace Vazio
             _jumpRequestedTime = -99f;
             _lastGroundedTime = -99f;
             IsGrounded = false;
+            GameAudio.Instance?.PlayerJump();
             Jumped?.Invoke();
         }
 
@@ -299,6 +328,7 @@ namespace Vazio
             if (grounded)
             {
                 _lastGroundedTime = Time.time;
+                _airJumpsLeft = airJumps;
             }
         }
 
@@ -409,6 +439,7 @@ namespace Vazio
 
             _isDashing = true;
             _dashTimer = dashDuration;
+            GameAudio.Instance?.PlayerDash();
             _dashDirection = _facing;
             _invincibleUntil = Time.time + dashDuration + dashInvincibilityGrace;
 

@@ -89,6 +89,7 @@ namespace Vazio
             }
 
             _nextShotTime = Time.time + cooldown;
+            GameAudio.Instance?.PlayerMagic();
 
             if (visualAnimator != null)
             {

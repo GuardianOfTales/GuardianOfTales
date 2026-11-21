@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 16e47fec367506747807b87f43904878
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8834879984397389118
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_0
+  - first:
+      213: 3697458513488418448
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_1
+  - first:
+      213: -7677585945452104447
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_2
+  - first:
+      213: -6858253987349602093
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_3
+  - first:
+      213: -4245962266080107076
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_4
+  - first:
+      213: 5046182186602727382
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_5
+  - first:
+      213: -4849413974504480173
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_6
+  - first:
+      213: 5876366172681337142
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_7
+  - first:
+      213: 829597126548226011
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_8
+  - first:
+      213: 2430313215478470990
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_9
+  - first:
+      213: -7332010260967178782
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_10
+  - first:
+      213: -3349981589796598739
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_11
+  - first:
+      213: -8595354858629578279
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_12
+  - first:
+      213: -3501293317231694294
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_13
+  - first:
+      213: -6810301532918406114
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_14
+  - first:
+      213: -8642872687679920427
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_15
+  - first:
+      213: 3357451164482849988
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_16
+  - first:
+      213: -1533422102203924650
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_17
+  - first:
+      213: -8749920004190542174
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_18
+  - first:
+      213: -1993609914886193219
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_19
+  - first:
+      213: -564665924960035655
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_20
+  - first:
+      213: -3340860766836591308
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_21
+  - first:
+      213: -3173058002684669429
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_22
+  - first:
+      213: 8758770247575792940
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_23
+  - first:
+      213: -608753682901525432
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_24
+  - first:
+      213: -7268141577378873901
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_25
+  - first:
+      213: 3480192148434153780
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_26
+  - first:
+      213: -5523748883290914195
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_27
+  - first:
+      213: -477859214454800997
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_28
+  - first:
+      213: 6284159342436844054
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_29
+  - first:
+      213: 5476149893149478664
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_30
+  - first:
+      213: -8625178667694448980
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_31
+  - first:
+      213: -1499347939986532318
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_32
+  - first:
+      213: -5973903225224921124
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_33
+  - first:
+      213: 1694939161907317497
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_34
+  - first:
+      213: -635706103246825040
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_35
+  - first:
+      213: -6603121569575937688
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_36
+  - first:
+      213: 1798921690524837712
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_37
+  - first:
+      213: -681290625590811564
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_38
+  - first:
+      213: -4438912838462585725
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_39
+  - first:
+      213: -2494779512378536673
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_40
+  - first:
+      213: 2695292491991334122
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_41
+  - first:
+      213: -6653136604039951254
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_42
+  - first:
+      213: 4134608217337766660
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_43
+  - first:
+      213: -8478656412428420967
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_44
+  - first:
+      213: -8716490033312257687
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_45
+  - first:
+      213: -4042874492954402508
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_46
+  - first:
+      213: -6959757703409728411
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_47
+  - first:
+      213: -481583544071788417
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_48
+  - first:
+      213: -9168047702783314356
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_49
+  - first:
+      213: 3985928299250652331
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_50
+  - first:
+      213: 8914660415661496675
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_51
+  - first:
+      213: -4749024489731115073
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_52
+  - first:
+      213: -5653145950557012507
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_53
+  - first:
+      213: -6669919645776918117
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_54
+  - first:
+      213: -1260455106334391623
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_55
+  - first:
+      213: 7949645631620930947
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_56
+  - first:
+      213: -4764979594465488926
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_57
+  - first:
+      213: -5215448405422277946
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_58
+  - first:
+      213: 2671760504817043931
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_59
+  - first:
+      213: -6831230708186579145
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_60
+  - first:
+      213: -4669939421030903777
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_61
+  - first:
+      213: -4578240683894270387
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_62
+  - first:
+      213: 1540993473062657967
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_63
+  - first:
+      213: 8807521558967588403
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_64
+  - first:
+      213: 6493701164020106489
+    second: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 708
+        width: 510
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d073f598ccb9a70800000000000000
+      internalID: 8834879984397389118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 588
+        width: 507
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09698349de2005330800000000000000
+      internalID: 3697458513488418448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_2
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 660
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105bbcc924cb37590800000000000000
+      internalID: -7677585945452104447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 647
+        width: 82
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0ee98c55692d0a0800000000000000
+      internalID: -6858253987349602093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_4
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 586
+        width: 90
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb52598a0df4315c0800000000000000
+      internalID: -4245962266080107076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_5
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 586
+        width: 105
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d70c5086f3a70640800000000000000
+      internalID: 5046182186602727382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 585
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35268d8feab63bcb0800000000000000
+      internalID: -4849413974504480173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 396
+        width: 171
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639fac456eb0d8150800000000000000
+      internalID: 5876366172681337142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 575
+        width: 92
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf7792f032538b00800000000000000
+      internalID: 829597126548226011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_9
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 546
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49188d3ef43ab120800000000000000
+      internalID: 2430313215478470990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_10
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 551
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed3889a3877f3a90800000000000000
+      internalID: -7332010260967178782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_11
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 453
+        width: 127
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c43183e797281d0800000000000000
+      internalID: -3349981589796598739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 399
+        width: 196
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1c4f4db4a27b880800000000000000
+      internalID: -8595354858629578279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 395
+        width: 124
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ea4f35748e86fc0800000000000000
+      internalID: -3501293317231694294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 401
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14a91d96d2fc71a0800000000000000
+      internalID: -6810301532918406114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_15
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 447
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6a9eb15195e0880800000000000000
+      internalID: -8642872687679920427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_16
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 455
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccc8b9ab00189e20800000000000000
+      internalID: 3357451164482849988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_17
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 457
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ff663f8b038bae0800000000000000
+      internalID: -1533422102203924650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_18
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 457
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a663218d1a029680800000000000000
+      internalID: -8749920004190542174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 316
+        width: 198
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbff28258564554e0800000000000000
+      internalID: -1993609914886193219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 316
+        width: 171
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc5dfd3557e928f0800000000000000
+      internalID: -564665924960035655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 317
+        width: 131
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4357aac45d0e2a1d0800000000000000
+      internalID: -3340860766836591308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_22
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 316
+        width: 122
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b021542ee8807f3d0800000000000000
+      internalID: -3173058002684669429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 314
+        width: 507
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2de30c52276d8970800000000000000
+      internalID: 8758770247575792940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 176
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c91fe20c54d87f0800000000000000
+      internalID: -608753682901525432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 176
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddb51f5ebf522b90800000000000000
+      internalID: -7268141577378873901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 176
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4317585f1502c4030800000000000000
+      internalID: 3480192148434153780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 177
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d620cfe18a3b753b0800000000000000
+      internalID: -5523748883290914195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_28
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 177
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d36c5839d4e59f0800000000000000
+      internalID: -477859214454800997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_29
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 235
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61286e580a1d53750800000000000000
+      internalID: 6284159342436844054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_30
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 271
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fc7fd50513ffb40800000000000000
+      internalID: 5476149893149478664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 172
+        width: 119
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae9bcb23b53d4880800000000000000
+      internalID: -8625178667694448980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 177
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22893621efe313be0800000000000000
+      internalID: -1499347939986532318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_33
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 177
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf78e1faae681da0800000000000000
+      internalID: -5973903225224921124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_34
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 177
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa42650032a58710800000000000000
+      internalID: 1694939161907317497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_35
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 176
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9dc6ecaa48d27f0800000000000000
+      internalID: -635706103246825040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_36
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 177
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869d4b4daeffc54a0800000000000000
+      internalID: -6603121569575937688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_37
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 177
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0576a761fbd07f810800000000000000
+      internalID: 1798921690524837712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_38
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 177
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4542bd029c19b86f0800000000000000
+      internalID: -681290625590811564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_39
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 181
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3844482ba40d562c0800000000000000
+      internalID: -4438912838462585725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_40
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 179
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d41cb5043c06dd0800000000000000
+      internalID: -2494779512378536673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_41
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 175
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecbbeebd3a976520800000000000000
+      internalID: 2695292491991334122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ccc0a228f4ba3a0800000000000000
+      internalID: -6653136604039951254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40324df7444116930800000000000000
+      internalID: 4134608217337766660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 76
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998bd9c2ae2c55a80800000000000000
+      internalID: -8478656412428420967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 76
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969a0342f7ec80780800000000000000
+      internalID: -8716490033312257687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_46
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 76
+        width: 106
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43127f79113d4e7c0800000000000000
+      internalID: -4042874492954402508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_47
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 76
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564897d3e39f96f90800000000000000
+      internalID: -6959757703409728411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_48
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 76
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786de571521159f0800000000000000
+      internalID: -481583544071788417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_49
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 76
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46b3cf403d84c080800000000000000
+      internalID: -9168047702783314356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_50
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 76
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba413097bacd05730800000000000000
+      internalID: 3985928299250652331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_51
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 76
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3695db88a6c37bb70800000000000000
+      internalID: 8914660415661496675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_52
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 80
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb732f35363181eb0800000000000000
+      internalID: -4749024489731115073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_53
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 76
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed7c99a5bdfb81b0800000000000000
+      internalID: -5653145950557012507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 83
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b994111cb6faf63a0800000000000000
+      internalID: -6669919645776918117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_55
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 113
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b28c9b42c6f18ee0800000000000000
+      internalID: -1260455106334391623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_56
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 115
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d500b3590d25e60800000000000000
+      internalID: 7949645631620930947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_57
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 117
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef46e50e446fddb0800000000000000
+      internalID: -4764979594465488926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_58
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 118
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7d62de410f97b0800000000000000
+      internalID: -5215448405422277946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_59
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 118
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9c9860600041520800000000000000
+      internalID: 2671760504817043931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_60
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 76
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f7cc34dd79231a0800000000000000
+      internalID: -6831230708186579145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_61
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 83
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f101cd6c6da013fb0800000000000000
+      internalID: -4669939421030903777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_62
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 84
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469d34ca52d670c0800000000000000
+      internalID: -4578240683894270387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_63
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 84
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf58133665b26510800000000000000
+      internalID: 1540993473062657967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_64
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 83
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3369bd1913a9a3a70800000000000000
+      internalID: 8807521558967588403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_65
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 84
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f485f6bdc24e1a50800000000000000
+      internalID: 6493701164020106489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_0: 8834879984397389118
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_1: 3697458513488418448
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_10: -7332010260967178782
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_11: -3349981589796598739
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_12: -8595354858629578279
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_13: -3501293317231694294
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_14: -6810301532918406114
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_15: -8642872687679920427
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_16: 3357451164482849988
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_17: -1533422102203924650
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_18: -8749920004190542174
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_19: -1993609914886193219
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_2: -7677585945452104447
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_20: -564665924960035655
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_21: -3340860766836591308
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_22: -3173058002684669429
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_23: 8758770247575792940
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_24: -608753682901525432
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_25: -7268141577378873901
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_26: 3480192148434153780
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_27: -5523748883290914195
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_28: -477859214454800997
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_29: 6284159342436844054
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_3: -6858253987349602093
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_30: 5476149893149478664
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_31: -8625178667694448980
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_32: -1499347939986532318
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_33: -5973903225224921124
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_34: 1694939161907317497
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_35: -635706103246825040
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_36: -6603121569575937688
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_37: 1798921690524837712
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_38: -681290625590811564
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_39: -4438912838462585725
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_4: -4245962266080107076
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_40: -2494779512378536673
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_41: 2695292491991334122
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_42: -6653136604039951254
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_43: 4134608217337766660
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_44: -8478656412428420967
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_45: -8716490033312257687
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_46: -4042874492954402508
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_47: -6959757703409728411
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_48: -481583544071788417
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_49: -9168047702783314356
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_5: 5046182186602727382
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_50: 3985928299250652331
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_51: 8914660415661496675
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_52: -4749024489731115073
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_53: -5653145950557012507
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_54: -6669919645776918117
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_55: -1260455106334391623
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_56: 7949645631620930947
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_57: -4764979594465488926
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_58: -5215448405422277946
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_59: 2671760504817043931
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_6: -4849413974504480173
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_60: -6831230708186579145
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_61: -4669939421030903777
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_62: -4578240683894270387
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_63: 1540993473062657967
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_64: 8807521558967588403
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_65: 6493701164020106489
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_7: 5876366172681337142
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_8: 829597126548226011
+      A_comprehensive_2D_side-scroller_platformer_asset_sheet_wild (2)_9: 2430313215478470990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

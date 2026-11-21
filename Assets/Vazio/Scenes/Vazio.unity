@@ -4503,7 +4503,7 @@ Transform:
   m_GameObject: {fileID: 338246371}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.89, y: 3.94, z: 0}
+  m_LocalPosition: {x: -0.17, y: -1.59, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12112,7 +12112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06d526de107e99a4fb9ffcedb09e5e78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Vazio.ArchivistBoss
-  maxHealth: 100
+  maxHealth: 300
   phaseTwoThreshold: 0.5
   hitFlashDuration: 0.08
   player: {fileID: 1852475320}
@@ -26260,7 +26260,7 @@ Transform:
   m_GameObject: {fileID: 1530319585}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.28, y: 0.69, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -31999,7 +31999,7 @@ Transform:
   m_GameObject: {fileID: 1852475319}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.3, y: 1.2, z: 0}
+  m_LocalPosition: {x: -0.3, y: 5.38, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -32048,6 +32048,8 @@ MonoBehaviour:
   groundDeceleration: 95
   airDeceleration: 22
   jumpHeight: 3.5
+  airJumps: 1
+  airJumpManaCost: 20
   maxFallSpeed: 28
   coyoteTime: 0.1
   jumpBufferTime: 0.12
@@ -36832,6 +36834,70 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!1 &2146078492
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2146078494}
+  - component: {fileID: 2146078493}
+  m_Layer: 0
+  m_Name: Audio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2146078493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2146078492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b147d916827156847b205c45b1a5aa07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Vazio.GameAudio
+  playerJump: {fileID: 8300000, guid: e2448c496c049cc41864f49ac416d4c7, type: 3}
+  playerDash: {fileID: 8300000, guid: 2b55ac9759ab6bf419ef4cb10f7adf77, type: 3}
+  playerMagic: {fileID: 8300000, guid: 00e6620ffdabc6f4fac6bced5f3d8ee3, type: 3}
+  playerHurt: {fileID: 8300000, guid: 8ec8b9db72bdbe8408c8df023e360ced, type: 3}
+  playerDeath: {fileID: 8300000, guid: cca630b7a1c07d84e81889a305ba680a, type: 3}
+  playerWalk: {fileID: 8300000, guid: 5d01f34bfb44e7542bc84e3de05e7a4f, type: 3}
+  playerHeal: {fileID: 8300000, guid: 74e3360be3e5aba4aae9393837716b14, type: 3}
+  bossHurt: {fileID: 8300000, guid: f48b1a135ff04f143934566e7cdccdf0, type: 3}
+  bossStaff: {fileID: 8300000, guid: 04560e88ad28d6f43aa5e89b5ac2f376, type: 3}
+  bossBooks: {fileID: 8300000, guid: 1bba0b5e3a596dd4da08a5dd8601387f, type: 3}
+  bossFlight: {fileID: 8300000, guid: 3d648213d72b08f4fb218ca8a4af5127, type: 3}
+  shot: {fileID: 8300000, guid: fc07afc8b354017419ec23a0b8cb8ba6, type: 3}
+  rifleShot: {fileID: 8300000, guid: 9ebe0ead22b4b7341873391d344ed489, type: 3}
+  portalOpen: {fileID: 8300000, guid: 9a74852e2bc37d34492823a16d789e53, type: 3}
+  westMusic: {fileID: 8300000, guid: 13c50df6c2cb41d40b0dccc7c448879b, type: 3}
+  bossMusic: {fileID: 8300000, guid: 020122a6fa754dc4da1ef344b869c446, type: 3}
+  sfxVolume: 0.8
+  loopVolume: 0.35
+  musicVolume: 0.45
+  autoWestMusic: 0
+--- !u!4 &2146078494
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2146078492}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -36841,3 +36907,4 @@ SceneRoots:
   - {fileID: 52886762}
   - {fileID: 1585785850}
   - {fileID: 2135578345}
+  - {fileID: 2146078494}

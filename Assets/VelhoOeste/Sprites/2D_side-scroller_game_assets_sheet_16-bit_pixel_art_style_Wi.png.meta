@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 6a7c36b626fbf234ea05db7903f2a939
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6044187925755189419
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_0
+  - first:
+      213: -4809586904381957162
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_1
+  - first:
+      213: -6834406977680629410
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_2
+  - first:
+      213: 8965309795326164038
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_3
+  - first:
+      213: 3209936318883788747
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_4
+  - first:
+      213: -3495024836918556084
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_5
+  - first:
+      213: -392169820926313096
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_6
+  - first:
+      213: -700784650028742597
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_7
+  - first:
+      213: 3830056363196230755
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_8
+  - first:
+      213: -6733252074086531719
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_9
+  - first:
+      213: -1049822912027804682
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_10
+  - first:
+      213: 947160171824870149
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_11
+  - first:
+      213: -3166880922128676739
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_12
+  - first:
+      213: -7292840816562016773
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_13
+  - first:
+      213: -4780217002031212531
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_14
+  - first:
+      213: 6637887909480215123
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_15
+  - first:
+      213: -4193094796157905973
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_16
+  - first:
+      213: 6541411290864193962
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_17
+  - first:
+      213: -2584540309331683152
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_18
+  - first:
+      213: 3126824113658047965
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_19
+  - first:
+      213: -8194185974003755391
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_20
+  - first:
+      213: -6182988909173137025
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_21
+  - first:
+      213: 6436969041192084067
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_22
+  - first:
+      213: 3129019815587377395
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_23
+  - first:
+      213: 2186673157915502872
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_24
+  - first:
+      213: 4637201973907928579
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_25
+  - first:
+      213: 3897579412331126478
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_26
+  - first:
+      213: 1410934164924838678
+    second: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 546
+        width: 200
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55728a1ea1bbe1ca0800000000000000
+      internalID: -6044187925755189419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 587
+        width: 153
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db51f7513ae04db0800000000000000
+      internalID: -4809586904381957162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 566
+        width: 134
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5125e4601f4721a0800000000000000
+      internalID: -6834406977680629410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 559
+        width: 269
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cfeb332cd2b6c70800000000000000
+      internalID: 8965309795326164038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 559
+        width: 273
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc771b6331cfb8c20800000000000000
+      internalID: 3209936318883788747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 382
+        width: 177
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a4d42ad6d2f7fc0800000000000000
+      internalID: -3495024836918556084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 366
+        width: 79
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dfe0c20abbe8af0800000000000000
+      internalID: -392169820926313096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 379
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b388dfed2105646f0800000000000000
+      internalID: -700784650028742597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 372
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c290648f7172530800000000000000
+      internalID: 3830056363196230755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 376
+        width: 52
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97df8e4b9eeae82a0800000000000000
+      internalID: -6733252074086531719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 376
+        width: 55
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb348baf974e61f0800000000000000
+      internalID: -1049822912027804682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 376
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503f403782df42d00800000000000000
+      internalID: 947160171824870149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_12
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 376
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d780f86849afc04d0800000000000000
+      internalID: -3166880922128676739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 376
+        width: 110
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfde95d9aef9aca90800000000000000
+      internalID: -7292840816562016773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 214
+        width: 167
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0895ac96f149adb0800000000000000
+      internalID: -4780217002031212531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 223
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352bd6772e38e1c50800000000000000
+      internalID: 6637887909480215123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 223
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc31875bf722fc5c0800000000000000
+      internalID: -4193094796157905973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 217
+        width: 168
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa190b149e2c7ca50800000000000000
+      internalID: 6541411290864193962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_18
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 220
+        width: 186
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b85b9a384ed12cd0800000000000000
+      internalID: -2584540309331683152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_19
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 222
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddda6b9f6f5b46b20800000000000000
+      internalID: 3126824113658047965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_20
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 222
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18694047547684e80800000000000000
+      internalID: -8194185974003755391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 193
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f712e82985c913aa0800000000000000
+      internalID: -6182988909173137025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 63
+        width: 207
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362e07a0d35b45950800000000000000
+      internalID: 6436969041192084067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 70
+        width: 121
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f07e3ba1f28c6b20800000000000000
+      internalID: 3129019815587377395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_24
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 70
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8196f61d6af985e10800000000000000
+      internalID: 2186673157915502872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_25
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 70
+        width: 57
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b58650a6aa5040800000000000000
+      internalID: 4637201973907928579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_26
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 70
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece5fd343dbf61630800000000000000
+      internalID: 3897579412331126478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_27
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 72
+        width: 62
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613bec5c525a49310800000000000000
+      internalID: 1410934164924838678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_0: -6044187925755189419
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_1: -4809586904381957162
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_10: -1049822912027804682
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_11: 947160171824870149
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_12: -3166880922128676739
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_13: -7292840816562016773
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_14: -4780217002031212531
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_15: 6637887909480215123
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_16: -4193094796157905973
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_17: 6541411290864193962
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_18: -2584540309331683152
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_19: 3126824113658047965
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_2: -6834406977680629410
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_20: -8194185974003755391
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_21: -6182988909173137025
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_22: 6436969041192084067
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_23: 3129019815587377395
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_24: 2186673157915502872
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_25: 4637201973907928579
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_26: 3897579412331126478
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_27: 1410934164924838678
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_3: 8965309795326164038
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_4: 3209936318883788747
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_5: -3495024836918556084
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_6: -392169820926313096
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_7: -700784650028742597
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_8: 3830056363196230755
+      2D_side-scroller_game_assets_sheet_16-bit_pixel_art_style_Wi_9: -6733252074086531719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
